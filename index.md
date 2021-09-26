@@ -24,3 +24,4 @@
 <p>Купили Крокодил Гена и Чебурашка косячок</p>
 <p>Колобок повесился</p>
 <p>Мумбаи</p>
+<p><img src='https://sun9-35.userapi.com/impg/2QKtpnKPmlQdNJFhAuGamZYi5RFUm0rLSHx7sg/pfGx61VFJZ4.jpg?size=680x661&quality=96&sign=413e1491e1e7b829489d7469f1ca8698&type=album'></p>
